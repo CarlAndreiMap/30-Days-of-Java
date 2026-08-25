@@ -109,5 +109,5 @@ Follow along with the journey — feedback, suggestions, and stars are always we
 
 ---
 
-*Started on: [Add Start Date]*
+*Started on: 8/25/26*
 *Challenge inspired by the #100DaysOfCode movement, scaled to 30.*
