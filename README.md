@@ -41,9 +41,9 @@ Each `DayXX` folder contains that day's code, along with a short notes file (`no
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| 01  | Java basics, setup, Hello World | ⬜ |
-| 02  | Variables & data types | ⬜ |
-| 03  | Operators & expressions | ⬜ |
+| 01  | Java basics, setup, Hello World | ✅ |
+| 02  | Variables & data types | ✅ |
+| 03  | Operators & expressions | ✅ |
 | 04  | Conditionals (if/else, switch) | ⬜ |
 | 05  | Loops (for, while, do-while) | ⬜ |
 | 06  | Arrays | ⬜ |
